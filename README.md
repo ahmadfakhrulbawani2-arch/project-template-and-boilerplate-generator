@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/repo-size/ahmadfakhrulbawani2-arch/project-template-and-boilerplate-generator?style=for-the-badge&color=orange">
   <img src="https://img.shields.io/github/stars/ahmadfakhrulbawani2-arch/project-template-and-boilerplate-generator?style=for-the-badge&color=yellow">
   <img src="https://img.shields.io/github/forks/ahmadfakhrulbawani2-arch/project-template-and-boilerplate-generator?style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
 </div>
 
@@ -31,7 +31,7 @@ cd /to-your-folder
 - Clone this repository with:
 
 ```bash
-git clone https://github.com/ahmadfakhrulbawani2-arch/project-template-and-boilerplate-generator .
+git clone https://github.com/ahmadfakhrulbawani2-arch/project-template-and-boilerplate-generator.git .
 ```
 
 - In this directory, open Bash Terminal (or with Git Bash) then try to run a script. For example
