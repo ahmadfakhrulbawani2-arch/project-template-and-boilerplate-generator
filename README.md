@@ -46,7 +46,15 @@ chmod +x start-web.sh
 
 ## Work In Progress
 
+start-web.sh:
+
 - [x] Web Development with vanilla js
+- [x] Add multi-page generator
+- [ ] Add tailwind features
+- [ ] Add header-footer generator (must have dir structures)
+
+start-py-modular.sh:
+
 - [ ] Python Modular Project from Scratch
 - [ ] coming soon...
 
